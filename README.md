@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Profile! 👋
 
-Hi there! I'm Kritan Aryal, a passionate Computer science Junior based in Toledo, OH. Welcome to my GitHub profile, where I showcase my projects, contributions, and exploration in the world of technology.
+Hi there! I'm Kritan Aryal, a passionate Computer science student based in Toledo, OH. Welcome to my GitHub profile, where I showcase my projects, contributions, and exploration in the world of technology.
 
 ## About Me
 
